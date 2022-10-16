@@ -69,6 +69,6 @@ The following image shows the web application's appearance and functionality:
 
 - - -
 
-link to deployed applicaiton: https://newengood.github.io/password-generator/
+Link to deployed applicaiton: https://newengood.github.io/password-generator/
 
 Link to github repository:  https://github.com/newengood/password-generator
