@@ -1,14 +1,10 @@
-## Password Generator
+# Password Generator
 
-## Your Task
+# Your Task
 
 Create a random password generator with specific criteria. 
 
-
-## link to deployed applicaiton: https://newengood.github.io/password-generator/
-## Link to github repository:  https://github.com/newengood/password-generator
-
-## Acceptance Criteria
+# Acceptance Criteria
 
 ```
 GIVEN I need a new, secure password
@@ -28,29 +24,29 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page - [X]
 ```
 
-## Mock-Up
+# Mock-Up
 
 The following image shows the web application's appearance and functionality:
 
 ![Screenshot of Deployed applicaiton".](screenshot.png)
 
-### Technical Acceptance Criteria: 40%
+## Technical Acceptance Criteria: 40%
 
 * Satisfies all of the preceding acceptance criteria plus the following:
 
   * The homework should not produce any errors in the console when you inspect it using Chrome DevTools. - [X]
 
-### Deployment: 32%
+## Deployment: 32%
 
 * Application deployed at live URL. - [X]
 
 * Application loads with no errors. - [X]
 
-* Application GitHub URL submitted. - []
+* Application GitHub URL submitted. - [X]
 
 * GitHub repository that contains application code. - [X]
 
-### Application Quality: 15%
+## Application Quality: 15%
 
 * Application user experience is intuitive and easy to navigate. - [X]
 
@@ -58,7 +54,7 @@ The following image shows the web application's appearance and functionality:
 
 * Application resembles the mock-up functionality provided in the homework instructions. - [X]
 
-### Repository Quality: 13%
+## Repository Quality: 13%
 
 * Repository has a unique name. - [X]
 
@@ -72,4 +68,7 @@ The following image shows the web application's appearance and functionality:
 
 
 - - -
-© Newengood
+
+link to deployed applicaiton: https://newengood.github.io/password-generator/
+
+Link to github repository:  https://github.com/newengood/password-generator
